@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Waffle Maker",
+    "description": "A waffle maker that makes delicious waffles.",
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "title": "Blender",
+    "description": "A powerful blender for smoothies and soups.",
+    "price": 49.99
+  },
+  {
+    "id": 3,
+    "title": "Coffee Maker",
+    "description": "A coffee maker that brews the perfect cup of coffee.",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "title": "Toaster",
+    "description": "A toaster that toasts bread to perfection.",
+    "price": 19.99
+  },
+  {
+    "id": 5,
+    "title": "Microwave Oven",
+    "description": "A microwave oven for quick and easy meals.",
+    "price": 89.99
+  },
+    {
+        "id": 6,
+        "title": "Rice Cooker",
+        "description": "A rice cooker that cooks rice perfectly every time.",
+        "price": 39.99
+    }
+]
