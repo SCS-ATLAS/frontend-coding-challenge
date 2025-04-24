@@ -33,7 +33,7 @@ Checkout the video containing the final solution. Feel free to improve on it.
 
 ## Output of the final solution
 
-![Final Solution](Atlas-Frontend-Challenge.mov)
+[Final Solution](Atlas-Frontend-Challenge.mov)
 
 > [!TIP]
 > Your solution does not need to implement the Swisscom style guide, but we've linked it in the app.vue file for reference.
